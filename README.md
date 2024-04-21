@@ -18,6 +18,10 @@ This project implements a full-text search engine in Django and it enables users
 - Set up environment variables: Create a .env file in the project root and add the necessary variables
 - Run migrations: `python manage.py makemigrations` and `python manage.py migrate`
 
+### Demo
+Search with "samsung" keyword
+![image](https://github.com/rumman-ahmar/dj-search/assets/72764336/77879b7f-98a1-4a8b-9e34-53edb65dd668)
+
 ### Article
 https://medium.com/@rummanahmar/full-text-search-engine-in-django-b36a9626037a
   
